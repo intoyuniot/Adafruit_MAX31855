@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_MAX31855",
+    "version": "1.0.0",
+    "keywords": "Adafruit_MAX31855",
+    "description": "MAX31855热电偶传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_MAX31855.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
